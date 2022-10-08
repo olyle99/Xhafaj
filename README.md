@@ -441,35 +441,35 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/as43uV9.png",[$]POPCORN 1HD
-http://f4.tvxweb.net:8082/24263/playlist.m3u8
+http://f4.tvxweb.net:8082/24263/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/zXTryWJ.png",[$]POPCORN 2HD
-http://f4.tvxweb.net:8082/24264/playlist.m3u8
+http://f4.tvxweb.net:8082/24264/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/RsBZ3lZ.png",[$]POPCORN 3HD
-http://f4.tvxweb.net:8082/24265/playlist.m3u8
+http://f4.tvxweb.net:8082/24265/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/aTvL3UM.png",[$]POPCORN 4HD
-http://f4.tvxweb.net:8082/24266/playlist.m3u8
+http://f4.tvxweb.net:8082/24266/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/pPqJ8ww.png",[$]POPCORN 5HD
-http://f4.tvxweb.net:8082/24268/playlist.m3u8
+http://f4.tvxweb.net:8082/24268/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/Yih0gFQ.png",[$]POPCORN 6HD
-http://f4.tvxweb.net:8082/24269/playlist.m3u8
+http://f4.tvxweb.net:8082/24269/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/1HcsvK0.png",[$]POPCORN 7HD
-http://f4.tvxweb.net:8082/24270/playlist.m3u8
+http://f4.tvxweb.net:8082/24270/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/zZEuFbx.png",[$]POPCORN 8HD
-http://f4.tvxweb.net:8082/24271/playlist.m3u8
+http://f4.tvxweb.net:8082/24271/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/wD4qvsn.png",[$]POPCORN 9HD
-http://f4.tvxweb.net:8082/24272/playlist.m3u8
+http://f4.tvxweb.net:8082/24272/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/Ufquipg.png",[$]POPCORN 10HD
-http://f4.tvxweb.net:8082/24273/playlist.m3u8
+http://f4.tvxweb.net:8082/24273/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/xKSU7CX.png",[$]POPCORN 11HD
-http://f4.tvxweb.net:8082/18098/playlist.m3u8
+http://f4.tvxweb.net:8082/18098/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/ZYIkIce.png",[$]POPCORN 12HD
-http://f4.tvxweb.net:8082/18099/playlist.m3u8
+http://f4.tvxweb.net:8082/18099/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/MM7jDor.png",[$]POPCORN 13HD
-http://f4.tvxweb.net:8082/35953/playlist.m3u8
+http://f4.tvxweb.net:8082/35953/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/tuNftVC.png",[$]POPCORN 14HD
-http://f4.tvxweb.net:8082/35968/playlist.m3u8
+http://f4.tvxweb.net:8082/35968/playlist.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]POPCORN" tvg-logo="https://i.imgur.com/dD3Ca2w.png",[$]POPCORN 15HD
-http://f4.tvxweb.net:8082/35982/playlist.m3u8
+http://f4.tvxweb.net:8082/35982/playlist.m3u8?token=test
 
 #EXTINF:-1 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/PvlKoDs.png",[$]FALCO (VOD)
 http://130.0.27.131:88/movies/html/falco/FALCO.mp4?

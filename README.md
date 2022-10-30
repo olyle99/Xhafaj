@@ -592,12 +592,6 @@ http://host.serveri.stream:8080/freemx/free/208|User-Agent=test963
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/TDuz6oH.png",[$]STAR FILM 9HD
 http://host.serveri.stream:8080/freemx/free/209|User-Agent=test963
 
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/sPE3Dha.png",[$]KATEGORIA SUPERIORE 1HD
-https://stream2.abissnetsuperiore.net/published/index.m3u8|Referer=https://stream2.abissnetsuperiore.net/published/embed.html
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/sPE3Dha.png",[$]KATEGORIA SUPERIORE 2HD
-https://stream2.abissnetsuperiore.net/rtshsport/index.m3u8|Referer=https://stream2.abissnetsuperiore.net/rtshsport/embed.html
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/sPE3Dha.png",[$]KATEGORIA SUPERIORE 3HD
-http://185.226.88.6:9510/tch?
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/zdl0LVh.png",[$]SUPER SPORT 1HD
 http://storeiptv.net:2095/simirtest/eRe6M94F4O/401
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/YmiN5j2.png",[$]SUPER SPORT 2HD

@@ -261,6 +261,14 @@ http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_DMSAT_ott/__op/dash-defaul
 #EXTINF:0 group-title="[🇦🇱🎵]MUZIKE" tvg-logo="https://i.imgur.com/42vp9eM.png",[$]IDJ-TV HD
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
 
+#EXTINF:-1 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/ZTL0Hcl.png",[$]BANG BANG
+http://79.106.90.121:8080/BangBang/mono.m3u8
+#EXTINF:-1 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/2UQPL93.png",[$]CUFO TV
+http://79.106.90.121:8080/Cufo/mono.m3u8
+#EXTINF:-1 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/PlizEtU.png",[$]JUNIOR TV
+http://79.106.90.121:8080/JuniorTv/mono.m3u8
+#EXTINF:0 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/UJqZAwK.png",[$]BABY TV 
+http://79.106.90.121:8080/BabyTv/mono.m3u8
 #EXTINF:-1 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/i4wkGBK.png",[$]TIP TV
 http://146.59.19.1:80/5026/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/6BCMgdN.png",[$]TRING TRING
@@ -464,15 +472,15 @@ http://185.89.156.111:8000/play/a01w?
 http://185.89.156.111:8000/play/a01v?
 
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/zdl0LVh.png",[$]SUPER SPORT 1HD
-http://storeiptv.net:2095/simirtest/eRe6M94F4O/401
+http://restream.skyhd-iptv.com:25461/8AWxutmEyj/dAKnp5memU/4
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/YmiN5j2.png",[$]SUPER SPORT 2HD
-http://storeiptv.net:2095/simirtest/eRe6M94F4O/406
+http://restream.skyhd-iptv.com:25461/8AWxutmEyj/dAKnp5memU/5
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/rcivIeg.png",[$]SUPER SPORT 3HD
-http://storeiptv.net:2095/simirtest/eRe6M94F4O/405
+http://restream.skyhd-iptv.com:25461/8AWxutmEyj/dAKnp5memU/6
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/oB0j4pD.png",[$]SUPER SPORT 4HD
-http://storeiptv.net:2095/simirtest/eRe6M94F4O/404
+http://restream.skyhd-iptv.com:25461/8AWxutmEyj/dAKnp5memU/7
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/OjdOi0r.png",[$]SUPER SPORT 5HD
-http://storeiptv.net:2095/simirtest/eRe6M94F4O/403
+http://restream.skyhd-iptv.com:25461/8AWxutmEyj/dAKnp5memU/8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS 1HD
 http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1313.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS 2HD
@@ -1308,6 +1316,1649 @@ http://130.0.27.131:88/movies/html/horror/Wer.mp4
 #EXTINF:-1 group-title="[🇦🇱🎬]FILMA(tibo)" tvg-logo="https://i.imgur.com/0MUjMPH.png",[$]WYRMWOOD
 http://130.0.27.131:88/movies/html/horror/Wyrmwood.mp4
 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]2 GISHT MJALTE
+http://37.26.86.39:48768/movies/2gishtmjalte.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHKEMBIMI
+http://37.26.86.39:48768/movies/shkembimi.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DASHURIA S'MJAFTON
+http://37.26.86.39:48768/movies/dashuriasmjafton.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DREJT FUNDIT
+http://37.26.86.39:48768/movies/drejtfundit.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PALLATI 176
+http://37.26.86.39:48768/movies/pallati176.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]2 POPES
+http://37.26.86.39:48768/movies/2popes.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]3 IDIOTS
+http://37.26.86.39:48768/movies/3idiots.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]5 WAVE
+http://37.26.86.39:48768/movies/5wave.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]6 UNDERGROUND
+http://37.26.86.39:48768/movies/6underground.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]7 PRISONERS
+http://37.26.86.39:48768/movies/7prisoners2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]8 BIT CHRISTMAS
+http://37.26.86.39:48768/movies/8bitchristmas.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]8 MILE
+http://37.26.86.39:48768/movies/8mile.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]12 ANGRY MEN
+http://37.26.86.39:48768/movies/12angrymen.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]12 STRONG
+http://37.26.86.39:48768/movies/12strong.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]13 MINUTES
+http://37.26.86.39:48768/movies/13minutes.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]20TH CENTURY WOMEN
+http://37.26.86.39:48768/movies/20thcenturywomen.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]21JUMP STREET
+http://37.26.86.39:48768/movies/21jumpstreet.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]22JUMP STREET
+http://37.26.86.39:48768/movies/22jumpstreet.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]24
+http://37.26.86.39:48768/movies/24.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]25TH HOUR
+http://37.26.86.39:48768/movies/25thhour.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]150 MILIGRAMS
+http://37.26.86.39:48768/movies/150miligrams.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]300
+http://37.26.86.39:48768/movies/300.mp4	
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]365 DAYS
+http://37.26.86.39:48768/movies/365days.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]438 DAYS
+http://37.26.86.39:48768/movies/438days.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]2050
+http://37.26.86.39:48768/movies/2050.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]3022
+http://37.26.86.39:48768/movies/3022.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GREENLAND
+http://37.26.86.39:48768/movies/Greenland.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ABE
+http://37.26.86.39:48768/movies/abe.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A BEAUTIFUL DAY IN NEIGHBOUR HOOD
+http://37.26.86.39:48768/movies/abeautifuldayinneighbourhood.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A BEATUFUL MIND
+http://37.26.86.39:48768/movies/abeautifulmind.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A BIGGER SPLASH
+http://37.26.86.39:48768/movies/abiggersplash2015.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ABOUTELLY
+http://37.26.86.39:48768/movies/aboutelly.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A BOY CALLED CHRISTMAS
+http://37.26.86.39:48768/movies/aboycalledchristmas.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ACCELERATION
+http://37.26.86.39:48768/movies/acceleration2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A CHRISTMAS ACROL
+http://37.26.86.39:48768/movies/achristmascarol.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A CONSPIRACY OF FAITH
+http://37.26.86.39:48768/movies/aconspiracyoffaith.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ADASTRA
+http://37.26.86.39:48768/movies/adastra.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AFTER MATH
+http://37.26.86.39:48768/movies/aftermath2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AFTER SHOCK
+http://37.26.86.39:48768/movies/aftershock2010.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AFTER WE FELL
+http://37.26.86.39:48768/movies/afterwefell2021.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AGAINST THE ICE
+http://37.26.86.39:48768/movies/againsttheice.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A GOOD DAY TO DIE HARD
+http://37.26.86.39:48768/movies/agooddaytodiehard.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A GOOD WOMAN IS HARD TO FIND
+http://37.26.86.39:48768/movies/agoodowmanishardtofind2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ALADDIN
+http://37.26.86.39:48768/movies/aladdin.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ALIEN CONVENANT
+http://37.26.86.39:48768/movies/aliencovenant.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ALL MY LIFE
+http://37.26.86.39:48768/movies/allmylife.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ALL THE OLD KNIVES
+http://37.26.86.39:48768/movies/alltheoldknives.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AMBULANCE
+http://37.26.86.39:48768/movies/ambulance.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AMELIE
+http://37.26.86.39:48768/movies/amelie.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AMERICAN
+http://37.26.86.39:48768/movies/american.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AMERICAN MUDRED THE FAMILY NEXT DOOR
+http://37.26.86.39:48768/movies/americanmurderthefamilynextdoor.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AMERICAN SNIPER
+http://37.26.86.39:48768/movies/americansniper.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AMMONITE
+http://37.26.86.39:48768/movies/ammonite2020.mp4 	 	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ANA
+http://37.26.86.39:48768/movies/ana2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ANGEL AS CHRISTMAS WISH
+http://37.26.86.39:48768/movies/angelaschristmaswish2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ANGEL HAS FALLEN
+http://37.26.86.39:48768/movies/angelhasfallen2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ANNEM
+http://37.26.86.39:48768/movies/annem2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AN OFFICER AND A SPY
+http://37.26.86.39:48768/movies/anofficerandaspy.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ANOTHER ROUND
+http://37.26.86.39:48768/movies/anotherround2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ANTMAN AND THE WASP
+http://37.26.86.39:48768/movies/antmanandthewasp.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A PERFECT PLAN
+http://37.26.86.39:48768/movies/aperfectplan2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]APEX
+http://37.26.86.39:48768/movies/apex2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ARGO
+http://37.26.86.39:48768/movies/argo.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ARMY OF ONE
+http://37.26.86.39:48768/movies/armyofone.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ARMY OF THIEVES
+http://37.26.86.39:48768/movies/armyofthieves.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ARRIVAL
+http://37.26.86.39:48768/movies/arrival.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A SPACE ODYSSEY
+http://37.26.86.39:48768/movies/aspaceodyssey.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ASSILANT
+http://37.26.86.39:48768/movies/assailant.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ASSASSINO AMERICANO
+http://37.26.86.39:48768/movies/assassinoamericano.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AT AST OF CHRISTMAS
+http://37.26.86.39:48768/movies/atasteofchristmas.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ATERRADOS
+http://37.26.86.39:48768/movies/aterrados.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A TWELVE YEAR NIGHT
+http://37.26.86.39:48768/movies/atwelveyearnight.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AVATAR
+http://37.26.86.39:48768/movies/avatar.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]A VERY MURRAY CHRISTMAS
+http://37.26.86.39:48768/movies/averymurraychristmas.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]AWAKE
+http://37.26.86.39:48768/movies/awake.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BABY
+http://37.26.86.39:48768/movies/baby.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BAD BOYS FOR LIFE
+http://37.26.86.39:48768/movies/badboysforlife.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BAIT
+http://37.26.86.39:48768/movies/bait2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BANANA SPLIT
+http://37.26.86.39:48768/movies/bananasplit2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BARBARA
+http://37.26.86.39:48768/movies/barbara.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BASTILLE DAY
+http://37.26.86.39:48768/movies/bastilleday.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BATMAN BEGINS
+http://37.26.86.39:48768/movies/batmanbegins.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BATMAN VS SUPERMAN
+http://37.26.86.39:48768/movies/batmanvsuperman.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BECOMING
+http://37.26.86.39:48768/movies/becoming.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BECOMING
+http://37.26.86.39:48768/movies/becoming2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BEFORE THE DEVIL KNOWS YOUR DEAD
+http://37.26.86.39:48768/movies/beforethedevilknowsyouredead.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BEFORE THE FIRE
+http://37.26.86.39:48768/movies/beforethefire2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BEING THE RICARDOS
+http://37.26.86.39:48768/movies/beingthericardos.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BELFAST
+http://37.26.86.39:48768/movies/belfast.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BELOW ZERO
+http://37.26.86.39:48768/movies/belowzero.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BENEDICTION
+http://37.26.86.39:48768/movies/benediction.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BENGHAZI
+http://37.26.86.39:48768/movies/benghazi.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BEYOND SKYLINE
+http://37.26.86.39:48768/movies/beyondskyline.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BEYOND THE REACH
+http://37.26.86.39:48768/movies/beyondthereach.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BIRD BOX
+http://37.26.86.39:48768/movies/birdbox.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BIRDMAN 
+http://37.26.86.39:48768/movies/birdman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BIRDS OF PASSAGE
+http://37.26.86.39:48768/movies/birdsofpassage2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BIRDS OF PREY
+http://37.26.86.39:48768/movies/birdsofprey2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BISMILAH
+http://37.26.86.39:48768/movies/bismilah.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLACK BEACH
+http://37.26.86.39:48768/movies/blackbeach2020.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLACK LIGHT
+http://37.26.86.39:48768/movies/blacklight.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLACK WIDOW
+http://37.26.86.39:48768/movies/blackwidow.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BADE RUNNER
+http://37.26.86.39:48768/movies/bladerunner2049.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLIND FIRE
+http://37.26.86.39:48768/movies/blindfire.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLISS
+http://37.26.86.39:48768/movies/bliss2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLOCK Z
+http://37.26.86.39:48768/movies/blockz2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BLUE MIRACLE
+http://37.26.86.39:48768/movies/bluemiracle.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BOMSHELL
+http://37.26.86.39:48768/movies/bomshell2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BORN A CHAMPION
+http://37.26.86.39:48768/movies/bornachampion2021.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BOSS LEVEL
+http://37.26.86.39:48768/movies/bosslevel.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BOURNE IDENTITY
+http://37.26.86.39:48768/movies/bourneidentity.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BOURNE SUPERMACY
+http://37.26.86.39:48768/movies/bournesupremacy.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BOURNE ULTIMATUM
+http://37.26.86.39:48768/movies/bourneultimatum.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BREAKING SURFACE
+http://37.26.86.39:48768/movies/breakingsurface2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BREXIT
+http://37.26.86.39:48768/movies/brexit2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BRONSON
+http://37.26.86.39:48768/movies/bronson2008.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BRUCE AL MIGHTY
+http://37.26.86.39:48768/movies/brucealmighty.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BULL
+http://37.26.86.39:48768/movies/bull2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]BYE
+http://37.26.86.39:48768/movies/bye2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CANDYMAN
+http://37.26.86.39:48768/movies/candyman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CAPONE
+http://37.26.86.39:48768/movies/capone2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CAST AWAY
+http://37.26.86.39:48768/movies/castaway.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CATCH ME IF YOU CAN
+http://37.26.86.39:48768/movies/catchmeifyoucan.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CATCH THE BULLET
+http://37.26.86.39:48768/movies/catchthebullet.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHAOS WALKING
+http://37.26.86.39:48768/movies/chaoswalking.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHERNOBYL ABBYSS
+http://37.26.86.39:48768/movies/chernobylabbyss.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHOP STICKS
+http://37.26.86.39:48768/movies/chopsticks.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS AL MODE
+http://37.26.86.39:48768/movies/christmasalamode.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS CHROICLES 1
+http://37.26.86.39:48768/movies/christmaschronicles1.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS CHRONICLES 2
+http://37.26.86.39:48768/movies/christmaschronicles2.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS DREAMS
+http://37.26.86.39:48768/movies/christmasdreams.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS ENCORE
+http://37.26.86.39:48768/movies/christmasencore.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS FESTIVAL OF ICE
+http://37.26.86.39:48768/movies/christmasfestivalofice.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS IN HERITANCE
+http://37.26.86.39:48768/movies/christmasinheritance.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS JARS
+http://37.26.86.39:48768/movies/christmasjars2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS ON ICE
+http://37.26.86.39:48768/movies/christmasonice.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS ON THE CAROUSEL
+http://37.26.86.39:48768/movies/christmasonthecarousel.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS THIEVES
+http://37.26.86.39:48768/movies/christmasthieves.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS TOGETHER WITH YOU
+http://37.26.86.39:48768/movies/christmastogetherwithyou.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRISTMAS TOWN
+http://37.26.86.39:48768/movies/christmastown.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHRONICLE
+http://37.26.86.39:48768/movies/chronicle.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CHURCHILL
+http://37.26.86.39:48768/movies/churchill2017.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CITATION
+http://37.26.86.39:48768/movies/citation.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CITY OF GOD
+http://37.26.86.39:48768/movies/cityofgod.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CITY OF LIES
+http://37.26.86.39:48768/movies/cityoflies.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CLIFFORD THE BIG RED DOG
+http://37.26.86.39:48768/movies/cliffordthebigreddog.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CLIMBERS
+http://37.26.86.39:48768/movies/climbers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CLOSE ENEMIES
+http://37.26.86.39:48768/movies/closeenemies.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CLOUD ATLAS
+http://37.26.86.39:48768/movies/cloudatlas.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CODA
+http://37.26.86.39:48768/movies/coda.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CODE 8
+http://37.26.86.39:48768/movies/code8.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CODE NAME BANSHEE
+http://37.26.86.39:48768/movies/codenamebanshee.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]COFFEE AND KAREEM
+http://37.26.86.39:48768/movies/coffeeandkareem2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]COLD EYES
+http://37.26.86.39:48768/movies/coldeyes.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]COLD PURSUIT
+http://37.26.86.39:48768/movies/coldpursuit.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]COMAITA
+http://37.26.86.39:48768/movies/comaita.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]COME AND SEE
+http://37.26.86.39:48768/movies/comeandsee1985.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CONSTANTINE
+http://37.26.86.39:48768/movies/constantine.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CONVICTION
+http://37.26.86.39:48768/movies/conviction2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]COSMIC SIN
+http://37.26.86.39:48768/movies/cosmicsin.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CRISIS
+http://37.26.86.39:48768/movies/crisis.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CRUELLA
+http://37.26.86.39:48768/movies/cruella.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CRYMACHO
+http://37.26.86.39:48768/movies/crymacho.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CUSOON
+http://37.26.86.39:48768/movies/cusoon.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CUT OFF
+http://37.26.86.39:48768/movies/cutoff.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]CYRANO
+http://37.26.86.39:48768/movies/cyrano.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DANGEROUS
+http://37.26.86.39:48768/movies/dangerous2021.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DANGEROUS MINDS
+http://37.26.86.39:48768/movies/dangerousminds.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DANNY COLLINS
+http://37.26.86.39:48768/movies/dannycollins.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DARKEST HOUR
+http://37.26.86.39:48768/movies/darkesthour.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DARKS
+http://37.26.86.39:48768/movies/darks02e01.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEAD RECKONING
+http://37.26.86.39:48768/movies/deadreckoning2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEAR CHRISTMAS
+http://37.26.86.39:48768/movies/dearchristmas.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEATH AT FUNERAL
+http://37.26.86.39:48768/movies/deathatafuneral.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEATH OF A FOOL
+http://37.26.86.39:48768/movies/deathofafool.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEATH ON THE NILE
+http://37.26.86.39:48768/movies/deathonthenile.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEBT COLLECTOR 2
+http://37.26.86.39:48768/movies/debtcollectors2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEEP WATER
+http://37.26.86.39:48768/movies/deepwater.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEMOLITION
+http://37.26.86.39:48768/movies/demolition.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DETACHMENT
+http://37.26.86.39:48768/movies/detachment.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DETROIT
+http://37.26.86.39:48768/movies/detroit.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DEVILS NIGHT DAWN OF THE NAIN ROUGE
+http://37.26.86.39:48768/movies/devilsnightdawnofthenainrouge.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DIE HARD
+http://37.26.86.39:48768/movies/diehard.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DIE HARD 2
+http://37.26.86.39:48768/movies/diehard2.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DIE HARD WITH AVENGANCE
+http://37.26.86.39:48768/movies/diehardwithavengance.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DINER
+http://37.26.86.39:48768/movies/diner.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DJANGO
+http://37.26.86.39:48768/movies/django.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DJANGO UNCHAINED
+http://37.26.86.39:48768/movies/djangounchained.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DOCTOR SLEEP
+http://37.26.86.39:48768/movies/doctorsleep.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS
+http://37.26.86.39:48768/movies/doctorstrangeinthemultiverseofmadness.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DOLITTLE
+http://37.26.86.39:48768/movies/dolittle.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DONT BREATHE 2
+http://37.26.86.39:48768/movies/dontbreathe2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DONT LOOK UP
+http://37.26.86.39:48768/movies/dontlookup.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DOOR LOCK
+http://37.26.86.39:48768/movies/doorlock2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DOWN HILL
+http://37.26.86.39:48768/movies/downhill2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DOWNTON ABBEY
+http://37.26.86.39:48768/movies/downtonabbey.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DREAM BUILDERS
+http://37.26.86.39:48768/movies/dreambuilders2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DRIVE MY CAR
+http://37.26.86.39:48768/movies/drivemycar.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DUAL
+http://37.26.86.39:48768/movies/dual.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DUNE
+http://37.26.86.39:48768/movies/dune2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]DUNKIRK
+http://37.26.86.39:48768/movies/dunkirk.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EARTH AND BLOOD
+http://37.26.86.39:48768/movies/earthandblood2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EARTH ONE AMAZING DAY
+http://37.26.86.39:48768/movies/earthoneamazingday.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EAT SIDE SUSHI
+http://37.26.86.39:48768/movies/eatsidesushi.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ECHOO BOOMERS
+http://37.26.86.39:48768/movies/echooboomers2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EDGE OF DEMOCRACY
+http://37.26.86.39:48768/movies/edgeofdemocracy.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EDGE OF THE WORLD
+http://37.26.86.39:48768/movies/edgeoftheworld.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ELVIS
+http://37.26.86.39:48768/movies/elvis.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EMERGENCY
+http://37.26.86.39:48768/movies/emergency.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EMMA
+http://37.26.86.39:48768/movies/emma2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ENCOUNTER
+http://37.26.86.39:48768/movies/encounter.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ENGLISH VS INGLISH
+http://37.26.86.39:48768/movies/englishvinglish.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ETERNALS
+http://37.26.86.39:48768/movies/eternals.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ETERNAL SUNSHINE OF THE SPOTLESS MIND
+http://37.26.86.39:48768/movies/eternalsunshineofthespotlessmind.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EUFORIA
+http://37.26.86.39:48768/movies/euforia2018.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EVENMICE BELONG IN HEAVEN
+http://37.26.86.39:48768/movies/evenmicebelonginheaven.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EVERY LAST ONE OF THEM
+http://37.26.86.39:48768/movies/everylastoneofthem.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EXIT PLAN
+http://37.26.86.39:48768/movies/exitplan2020.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EXPERIMENTER
+http://37.26.86.39:48768/movies/experimenter.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EXTRACTION
+http://37.26.86.39:48768/movies/extraction2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]EYE IN THE SKY
+http://37.26.86.39:48768/movies/eyeinthesky.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FAITH HOPE AND LOVE
+http://37.26.86.39:48768/movies/faithhopeandlove.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FANTASTIC BEASTS THE SECRET OF DUMBLE DORE
+http://37.26.86.39:48768/movies/fantasticbeaststhesecretsofdumbledore.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FAST AND FURIOUS 9
+http://37.26.86.39:48768/movies/fastandfurious9.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FAST AND FURIOUS HOBS & STONKS
+http://37.26.86.39:48768/movies/fastnfurious-hobs-n-stonks.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FATALE
+http://37.26.86.39:48768/movies/fatale.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FATHER
+http://37.26.86.39:48768/movies/father.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FEEL THE BEAT
+http://37.26.86.39:48768/movies/feelthebeat.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FIGHT CLUB
+http://37.26.86.39:48768/movies/fightclub.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FINAL FREQUENCY
+http://37.26.86.39:48768/movies/finalfrequency.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FINDING OHANA
+http://37.26.86.39:48768/movies/findingohana.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FIRE BIRD
+http://37.26.86.39:48768/movies/firebird.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FIRST REFORMED
+http://37.26.86.39:48768/movies/firstreformed.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FLIGHT
+http://37.26.86.39:48768/movies/flight2012.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FLU
+http://37.26.86.39:48768/movies/flu.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FOCUS
+http://37.26.86.39:48768/movies/focus2015.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FORCE OF NATURE
+http://37.26.86.39:48768/movies/forceofnature2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FORD VS FERRARI
+http://37.26.86.39:48768/movies/fordvferrari2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FORSTNIKE
+http://37.26.86.39:48768/movies/forstnike.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FOUR TO DINNER
+http://37.26.86.39:48768/movies/fourtodinner.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FRACTURE
+http://37.26.86.39:48768/movies/fracture2007.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FRACTURED
+http://37.26.86.39:48768/movies/fractured2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FREE GUY
+http://37.26.86.39:48768/movies/freeguy.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FREE STATE OF JONES
+http://37.26.86.39:48768/movies/freestateofjones.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FRESH
+http://37.26.86.39:48768/movies/fresh.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]FURY
+http://37.26.86.39:48768/movies/fury2014.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GANGS OF WASSEYPUR
+http://37.26.86.39:48768/movies/gangsofwasseypur.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GASOLLINE ALLEY
+http://37.26.86.39:48768/movies/gasolinealley.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GATHAM
+http://37.26.86.39:48768/movies/gatham.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GENTELMAN
+http://37.26.86.39:48768/movies/gentleman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GEORGE WASHINGTON
+http://37.26.86.39:48768/movies/georgewashington2020.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GEOSTORM
+http://37.26.86.39:48768/movies/geostorm.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GEMINI MAN
+http://37.26.86.39:48768/movies/germiniman2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GHOST BUSTERS AFTER LIFE
+http://37.26.86.39:48768/movies/ghostbustersafterlife.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GIFTED
+http://37.26.86.39:48768/movies/gifted2017.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GODFATHER 3
+http://37.26.86.39:48768/movies/godfather3.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GODFATHER 1
+http://37.26.86.39:48768/movies/godfatherpart1.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GODFATHER 2
+http://37.26.86.39:48768/movies/godfatherpart2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GODZILLA VS KONG
+http://37.26.86.39:48768/movies/godzillavkong.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GOLD
+http://37.26.86.39:48768/movies/gold.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GOLDIE
+http://37.26.86.39:48768/movies/goldie.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GONE GIRL
+http://37.26.86.39:48768/movies/gonegirl.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GOODBYE BUTTERFLY
+http://37.26.86.39:48768/movies/goodbyebutterfly.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GOOD FELLAS
+http://37.26.86.39:48768/movies/goodfellas.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GOOD MORNING
+http://37.26.86.39:48768/movies/goodmourning.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GRAND ISLE
+http://37.26.86.39:48768/movies/grandisle2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GRAVITY
+http://37.26.86.39:48768/movies/gravity2013.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GREAT FREEDOM
+http://37.26.86.39:48768/movies/greatfreedom.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]GROWN UPS 2
+http://37.26.86.39:48768/movies/grownups2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HACKER TRUST NOONE
+http://37.26.86.39:48768/movies/hackertrustnoone.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HAMILTON
+http://37.26.86.39:48768/movies/hamilton.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HANGOVER 1
+http://37.26.86.39:48768/movies/hangoverpart1.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HANGOVER 2
+http://37.26.86.39:48768/movies/hangoverpart2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HANGOVER 3
+http://37.26.86.39:48768/movies/hangoverpart3.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HAPPIEST SEASON
+http://37.26.86.39:48768/movies/happiestseason.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HARD NIGHT FALLING
+http://37.26.86.39:48768/movies/hardnightfalling2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HARRY POTTER RETURN TO HOGWARTS
+http://37.26.86.39:48768/movies/harrypotter20thanniversaryreturntohogwarts.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HARRY POTTER SORCERERS STONE
+http://37.26.86.39:48768/movies/harrypotterandthesorcerersstone2001english.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HER
+http://37.26.86.39:48768/movies/her.mp4	
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HERSELF
+http://37.26.86.39:48768/movies/herself2021.mp4	
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HIS HOUSE
+http://37.26.86.39:48768/movies/hishouse.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HITMAN 47
+http://37.26.86.39:48768/movies/hitman47.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HITMANS WIFE BODYGUARD
+http://37.26.86.39:48768/movies/hitmanswifebodyguard.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOLIDATE 1
+http://37.26.86.39:48768/movies/holidate1.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOLLYWOOD DIRT
+http://37.26.86.39:48768/movies/hollywooddirt2017.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOME
+http://37.26.86.39:48768/movies/home.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOMEALONE 1
+http://37.26.86.39:48768/movies/homealone1990.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOMEALONE 2
+http://37.26.86.39:48768/movies/homealone21992.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOMEALONE 3
+http://37.26.86.39:48768/movies/homesweethomealone.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HONEST THIEF
+http://37.26.86.39:48768/movies/honestthief.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HORSE GIRL
+http://37.26.86.39:48768/movies/horsegirl.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOTEL TRANSYLVANIA 4
+http://37.26.86.39:48768/movies/hoteltransylvania4.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOT SEAT
+http://37.26.86.39:48768/movies/hotseat.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOUSE OF GUCCI
+http://37.26.86.39:48768/movies/houseofgucci.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOW TO TRAIN YOUR DRAGON 2
+http://37.26.86.39:48768/movies/howtotrainyourdragon2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOW TO TRAIN YOUR DRAGON
+http://37.26.86.39:48768/movies/howtotrainyourdragon2010.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOW TO TRAIN YOUR DRAGON HOMECOMING
+http://37.26.86.39:48768/movies/howtotrainyourdragonhomecoming.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HOW TO TRAIN YOUR DRAGON THE HIDDEN WORLD
+http://37.26.86.39:48768/movies/howtotrainyourdragonthehiddenworld.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HUBIE HALLOWEEN
+http://37.26.86.39:48768/movies/hubiehalloween.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HUSTLE
+http://37.26.86.39:48768/movies/hustle.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]HUSTLERS
+http://37.26.86.39:48768/movies/hustlers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]I AM LEGEND
+http://37.26.86.39:48768/movies/iamlegend.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]I CARE A LOT
+http://37.26.86.39:48768/movies/icarealot.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ICARUS
+http://37.26.86.39:48768/movies/icarus2017.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ICE ROAD
+http://37.26.86.39:48768/movies/iceroad.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]IMPASSE
+http://37.26.86.39:48768/movies/impasse.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]I'M THINKING OF ENDING THINGS
+http://37.26.86.39:48768/movies/imthinkingofendingthings.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ICEPTION
+http://37.26.86.39:48768/movies/inception.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INDEPENDENCE DAY RESURGENCE
+http://37.26.86.39:48768/movies/independencedayresurgence.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INFAMOUS
+http://37.26.86.39:48768/movies/infamous.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INFINITE
+http://37.26.86.39:48768/movies/infinite.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INGLORIOUS BASTERDS
+http://37.26.86.39:48768/movies/ingloriousbasterds.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INSIDE MAN MOST WANTED
+http://37.26.86.39:48768/movies/insidemanmostwanted.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INTERCEPTOR
+http://37.26.86.39:48768/movies/interceptor.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INTER STELLAR
+http://37.26.86.39:48768/movies/interstellar.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]INTUITION
+http://37.26.86.39:48768/movies/intuition.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]I ORIGINS
+http://37.26.86.39:48768/movies/iorigins.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]IRISHMAN
+http://37.26.86.39:48768/movies/irishman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]IRON WILL
+http://37.26.86.39:48768/movies/ironwill.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]IRRESISTIBLE
+http://37.26.86.39:48768/movies/irresistible.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]I SEE YOU
+http://37.26.86.39:48768/movies/iseeyou2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JACK REACHER
+http://37.26.86.39:48768/movies/jackreacher.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JARHEAD LAW OF RETURN
+http://37.26.86.39:48768/movies/jarheadlawofreturn2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JASONE BOURNE
+http://37.26.86.39:48768/movies/jasonbourne2016.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JINGLE JANGLE A CHRISTMAS JOURNEY
+http://37.26.86.39:48768/movies/jinglejangleachristmasjourney.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JOHN HENRY
+http://37.26.86.39:48768/movies/johnhenry.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JOHQNITA
+http://37.26.86.39:48768/movies/johqnita.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JOJO
+http://37.26.86.39:48768/movies/jojo.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JOJO RABIT
+http://37.26.86.39:48768/movies/jojorabbit.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JOKER
+http://37.26.86.39:48768/movies/joker.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JULIETA
+http://37.26.86.39:48768/movies/julieta2016.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JUMANJI
+http://37.26.86.39:48768/movies/jumanji.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JUNGLE CRUISE
+http://37.26.86.39:48768/movies/junglecruise.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JURASSIC WORLD DOMINION
+http://37.26.86.39:48768/movies/jurassicworlddominion.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JUSTICE LEAGUE
+http://37.26.86.39:48768/movies/justiceleague.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]JUST MERCY
+http://37.26.86.39:48768/movies/justmercy2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KATE
+http://37.26.86.39:48768/movies/kate2021.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KILLER MAN
+http://37.26.86.39:48768/movies/killerman2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KING RICHARD
+http://37.26.86.39:48768/movies/kingrichard.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KLAUS
+http://37.26.86.39:48768/movies/klaus.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KNIVES OUT
+http://37.26.86.39:48768/movies/knivesout2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KNUCK LEDUST
+http://37.26.86.39:48768/movies/knuckledust.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KUNG FURY
+http://37.26.86.39:48768/movies/kungfury.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KURIER
+http://37.26.86.39:48768/movies/kurier2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]KUSKO
+http://37.26.86.39:48768/movies/kusko.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LADY DRIVER
+http://37.26.86.39:48768/movies/ladydriver.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LADY MACBETH
+http://37.26.86.39:48768/movies/ladymacbeth.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAST LOOKS
+http://37.26.86.39:48768/movies/lastlooks.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAST MAN DOWN
+http://37.26.86.39:48768/movies/lastmandown.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAST NIGHT IN SOHO
+http://37.26.86.39:48768/movies/lastnightinsoho.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAST SEEN ALIVE
+http://37.26.86.39:48768/movies/lastseenalive.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAST SURVIVORS
+http://37.26.86.39:48768/movies/lastsurvivors.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAST THE NIGHT
+http://37.26.86.39:48768/movies/lastthenight.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LAWLESS
+http://37.26.86.39:48768/movies/lawless.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LEGEND
+http://37.26.86.39:48768/movies/legend.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LET IT SNOW
+http://37.26.86.39:48768/movies/letitsnow.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LIFE IS BEAUTIFUL
+http://37.26.86.39:48768/movies/lifeisbeautiful.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LIFES OF OTHERS
+http://37.26.86.39:48768/movies/lifesofothers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LIGHT HOUSE
+http://37.26.86.39:48768/movies/lighthouse.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LIMORTALE
+http://37.26.86.39:48768/movies/limortale.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LINE OF DUTY
+http://37.26.86.39:48768/movies/lineofduty2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LION
+http://37.26.86.39:48768/movies/lion.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LITTLE FISH
+http://37.26.86.39:48768/movies/littlefish.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LITTLE WOODS
+http://37.26.86.39:48768/movies/littlewoods.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LIVE FREE OR DIE HARD
+http://37.26.86.39:48768/movies/livefreeordiehard.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LOCKED DOWN
+http://37.26.86.39:48768/movies/lockeddown2021.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LOST BULLET
+http://37.26.86.39:48768/movies/lostbullet.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LOTTERY TICKET
+http://37.26.86.39:48768/movies/lotteryticket2010.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LUCA
+http://37.26.86.39:48768/movies/luca.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]LUCY
+http://37.26.86.39:48768/movies/lucy2014.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MADE IN FRANCE
+http://37.26.86.39:48768/movies/madeinfrance2015.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MADE IN ITALY
+http://37.26.86.39:48768/movies/madeinitaly.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MAD MAX FURY ROAD
+http://37.26.86.39:48768/movies/madmaxfuryroad.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MAFIA INC
+http://37.26.86.39:48768/movies/mafiainc.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MALCOLM AND MARIE
+http://37.26.86.39:48768/movies/malcolmandmarie.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MALEFICENT MISTRESS OF EVIL
+http://37.26.86.39:48768/movies/maleficentmistressofevil2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MALIGNANT
+http://37.26.86.39:48768/movies/malignant.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MALIK
+http://37.26.86.39:48768/movies/malik.mp4 	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MANK
+http://37.26.86.39:48768/movies/mank2020.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MAN OF STEEL
+http://37.26.86.39:48768/movies/manofsteel.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MAN OF FIRE
+http://37.26.86.39:48768/movies/manonfire.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MANY SAINTS OF NEW ARK
+http://37.26.86.39:48768/movies/manysaintsofnewark.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARAINYS BLACK BOTTOM
+http://37.26.86.39:48768/movies/marainysblackbottom.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARAUDERS
+http://37.26.86.39:48768/movies/marauders.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARGIN CALL
+http://37.26.86.39:48768/movies/margincall.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARIONETTE
+http://37.26.86.39:48768/movies/marionette.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARKSMAN
+http://37.26.86.39:48768/movies/marksman.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARRIAGE STORY
+http://37.26.86.39:48768/movies/marriagestory.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MARRY ME
+http://37.26.86.39:48768/movies/marryme.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MASS
+http://37.26.86.39:48768/movies/mass.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MAY DAY
+http://37.26.86.39:48768/movies/mayday.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ME BEFORE YOU
+http://37.26.86.39:48768/movies/mebeforeyou.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MELANCHOLIA
+http://37.26.86.39:48768/movies/melancholia.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MEMENTO
+http://37.26.86.39:48768/movies/memento.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MEMORY
+http://37.26.86.39:48768/movies/memory.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MEXICOS MOST WANTED
+http://37.26.86.39:48768/movies/mexicosmostwanted.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MICHEAL CLAYTON
+http://37.26.86.39:48768/movies/michaelclayton.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MIDNIGHT SPECIAL
+http://37.26.86.39:48768/movies/midnightspecial.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MIDWAY
+http://37.26.86.39:48768/movies/midway.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MINARI
+http://37.26.86.39:48768/movies/minari.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MINE
+http://37.26.86.39:48768/movies/mine92019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISS FIST HER AND THE CRYPT OF TEARS
+http://37.26.86.39:48768/movies/missfistherandthecryptoftears2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISSION IMPOSSIBLE 2
+http://37.26.86.39:48768/movies/missionimpossible2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISSION IMPOSSIBLE 3
+http://37.26.86.39:48768/movies/missionimpossible3.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISSION IMPOSSIBLE 4
+http://37.26.86.39:48768/movies/missionimpossible4.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISSION IMPOSSIBLE 5
+http://37.26.86.39:48768/movies/missionimpossible5.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISSION IMPOSSIBLE FALLOUT
+http://37.26.86.39:48768/movies/missionimpossiblefallout.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MISS LOANE
+http://37.26.86.39:48768/movies/misssloane.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MODERN TIMES
+http://37.26.86.39:48768/movies/moderntimes.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MOLLYS GAME
+http://37.26.86.39:48768/movies/mollysgame.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MONEY
+http://37.26.86.39:48768/movies/money2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MONEY HESIT THE PHENOMEN
+http://37.26.86.39:48768/movies/moneyhesitthephenomen2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MONSTER HUNTER
+http://37.26.86.39:48768/movies/monsterhunter2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MONSTERS BALL
+http://37.26.86.39:48768/movies/monstersball.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MONSTERS OF MAN
+http://37.26.86.39:48768/movies/monstersofman.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MOON FALL
+http://37.26.86.39:48768/movies/moonfall.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MORBIUS
+http://37.26.86.39:48768/movies/morbius.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MORTAL
+http://37.26.86.39:48768/movies/mortal2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MORTAL ENGINE
+http://37.26.86.39:48768/movies/mortalengine.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MORTAL KOMBAT
+http://37.26.86.39:48768/movies/mortalkombat.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MOSUL
+http://37.26.86.39:48768/movies/mosul2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MOTHERLESS BROOKLYN
+http://37.26.86.39:48768/movies/motherlessbrooklyn2019.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MOLLYS GAME
+http://37.26.86.39:48768/movies/moyllysgame.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MR CHURCH
+http://37.26.86.39:48768/movies/mrchurch.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MR NOBODY
+http://37.26.86.39:48768/movies/mrnobody.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MRS LOW RYANDSON
+http://37.26.86.39:48768/movies/mrslowryandson.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MULTIVERSE
+http://37.26.86.39:48768/movies/multiverse.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MUNICH THE EDGE OF WAR
+http://37.26.86.39:48768/movies/munichtheedgeofwar.mp4  	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MY SON
+http://37.26.86.39:48768/movies/myson.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]MY SPY
+http://37.26.86.39:48768/movies/myspy.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NEWS OF THE WORLD
+http://37.26.86.39:48768/movies/newsoftheworld.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NH 1O
+http://37.26.86.39:48768/movies/nh10.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NIGHT BOOKS
+http://37.26.86.39:48768/movies/nightbooks.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NIGHT CRAWLER
+http://37.26.86.39:48768/movies/nightcrawler.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NIGHT MAREALLEY
+http://37.26.86.39:48768/movies/nightmarealley.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NIGHT RAIDERS
+http://37.26.86.39:48768/movies/nightraiders.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NIGHT SHIFT
+http://37.26.86.39:48768/movies/nightshift2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NOBODY
+http://37.26.86.39:48768/movies/nobody.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NOBODY LOGO
+http://37.26.86.39:48768/movies/nobodylogo.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NO EXIT
+http://37.26.86.39:48768/movies/noexit.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NO MAD LAND
+http://37.26.86.39:48768/movies/nomadland.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NO MERCY
+http://37.26.86.39:48768/movies/nomercy.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NOPE
+http://37.26.86.39:48768/movies/nope2022.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NORM OF THE NORTH KEYS TO THE KINGDOM
+http://37.26.86.39:48768/movies/normofthenorthkeystothekingdom.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NO SUDDEN MOVE
+http://37.26.86.39:48768/movies/nosuddenmove.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NOTES FOR MY SON
+http://37.26.86.39:48768/movies/notesformyson.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NO TIME TO DIEANG
+http://37.26.86.39:48768/movies/notimetodieang.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]NOW HERE SPECIAL
+http://37.26.86.39:48768/movies/nowherespecial.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OBLIVION
+http://37.26.86.39:48768/movies/oblivion.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OCCUPATION RAIN FALL
+http://37.26.86.39:48768/movies/occupationrainfall.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OFFERING TO THE STORM
+http://37.26.86.39:48768/movies/offeringtothestorm.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OLD
+http://37.26.86.39:48768/movies/old2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OLYMUS HAS FALLEN
+http://37.26.86.39:48768/movies/olympushasfallen.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ONCE UPON TIME IN AMERICA
+http://37.26.86.39:48768/movies/onceuponatimeinamerica.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ONE NIGHT IN MIAMI
+http://37.26.86.39:48768/movies/onenightinmiami.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OPERATION AVALANCHE
+http://37.26.86.39:48768/movies/operationavalanche.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ORBITER
+http://37.26.86.39:48768/movies/orbiter9.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OUR KIND OF TRAITOR
+http://37.26.86.39:48768/movies/ourkindoftraitor2016.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OUT BREAK
+http://37.26.86.39:48768/movies/outbreak1995.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]OUTSIDE THE WIRE
+http://37.26.86.39:48768/movies/outsidethewire.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PACIFIC RIM
+http://37.26.86.39:48768/movies/pacificrim.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PACIFIC RIM 2
+http://37.26.86.39:48768/movies/pacificrim2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PAIN AND GLORY
+http://37.26.86.39:48768/movies/painandglory2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PAN
+http://37.26.86.39:48768/movies/pan2015.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PANGA
+http://37.26.86.39:48768/movies/panga2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PAPER LIVES
+http://37.26.86.39:48768/movies/paperlives.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PARADISE HIGHWAY
+http://37.26.86.39:48768/movies/paradisehighway.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PARALLEL
+http://37.26.86.39:48768/movies/parallel.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PARASITE
+http://37.26.86.39:48768/movies/parasite.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PASSENGERS
+http://37.26.86.39:48768/movies/passengers.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PAW PATROL
+http://37.26.86.39:48768/movies/pawpatrol.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PAYBACK
+http://37.26.86.39:48768/movies/payback2021.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PERFUME THE STORY OF A MURDERER
+http://37.26.86.39:48768/movies/perfumethestoryofamurderer.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PERSIAN LESSONS
+http://37.26.86.39:48768/movies/persianlesssons.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PETTER RABIT 2
+http://37.26.86.39:48768/movies/petterabbit2.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PHOTO COPIER
+http://37.26.86.39:48768/movies/photocopier.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIECE OF WOMAN
+http://37.26.86.39:48768/movies/piecesofawoman2020.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIG
+http://37.26.86.39:48768/movies/pig.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIRANHAS
+http://37.26.86.39:48768/movies/piranhas.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIRATES AT WORLD SEND
+http://37.26.86.39:48768/movies/piratesatworldsend.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIRATES CURSE OF BLACK PEARL
+http://37.26.86.39:48768/movies/piratescurseofblackpearl2003.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIRATES DEADMANS CHETS
+http://37.26.86.39:48768/movies/piratesdeadmanschets2006.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIRATES DEADMAN TELL NO TALES
+http://37.26.86.39:48768/movies/piratesdeadmantellnotales.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PIRATE SON STRANGER TIDES
+http://37.26.86.39:48768/movies/piratesonstrangertides.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PREY
+http://37.26.86.39:48768/movies/prey2022.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PROJECT GEMINI
+http://37.26.86.39:48768/movies/projectgemini.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PROJECT POWER
+http://37.26.86.39:48768/movies/projectpower2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PROMETHEUS
+http://37.26.86.39:48768/movies/prometheus.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PROMISING YOUNG WOMAN
+http://37.26.86.39:48768/movies/promisingyoungwoman.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PROXIMA
+http://37.26.86.39:48768/movies/proxima.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PSYCHO
+http://37.26.86.39:48768/movies/psycho.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]PUBLIC ENEMIES
+http://37.26.86.39:48768/movies/publicenemies.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]QUANTUM OF SOLACE
+http://37.26.86.39:48768/movies/quantumofsolace.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RACING EXTINCTION
+http://37.26.86.39:48768/movies/racingextinction2015.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RAMBO LAST BLOOD
+http://37.26.86.39:48768/movies/rambolastblood.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RAYA AND THE LAST DRAGON
+http://37.26.86.39:48768/movies/rayaandthelastdragon.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RAY DONOVAN
+http://37.26.86.39:48768/movies/raydonovan.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]READY OR NOT
+http://37.26.86.39:48768/movies/readyornot2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]REBECCA
+http://37.26.86.39:48768/movies/rebecca.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RECALLED
+http://37.26.86.39:48768/movies/recalled2021.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]REDCON
+http://37.26.86.39:48768/movies/redcon12018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RED DEVIL
+http://37.26.86.39:48768/movies/reddevil2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RED DOT
+http://37.26.86.39:48768/movies/reddot2021.mp4 	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RED NOTICE
+http://37.26.86.39:48768/movies/rednotice.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RED ROCKET
+http://37.26.86.39:48768/movies/redrocket.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]REIGN OF FIRE
+http://37.26.86.39:48768/movies/reignoffire.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RELIC
+http://37.26.86.39:48768/movies/relic.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]REMINI SCENE
+http://37.26.86.39:48768/movies/reminiscene.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RESIDENT EVIL WELCOME TO RACCOON CITY
+http://37.26.86.39:48768/movies/residentevilwelcometoraccooncity.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RESISTANCE
+http://37.26.86.39:48768/movies/resistance2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RESPECT
+http://37.26.86.39:48768/movies/respect.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RESTLESS
+http://37.26.86.39:48768/movies/restless.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]REVOLUTIONARY ROAD
+http://37.26.86.39:48768/movies/revolutionaryroad.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RIDE
+http://37.26.86.39:48768/movies/ride2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RISING HIGH
+http://37.26.86.39:48768/movies/risinghigh2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ROBOT OVER LORDS
+http://37.26.86.39:48768/movies/robotoverlords.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ROUGE HOSTAGE
+http://37.26.86.39:48768/movies/roguehostage.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RONS GONE WRONG
+http://37.26.86.39:48768/movies/ronsgonewrong.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ROSE ISLAND
+http://37.26.86.39:48768/movies/roseisland.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RUBIKON
+http://37.26.86.39:48768/movies/rubikon.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RUN HIDE FIGHT
+http://37.26.86.39:48768/movies/runhidefight.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RUSH
+http://37.26.86.39:48768/movies/rush.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RUSH HOUR 
+http://37.26.86.39:48768/movies/rushhour.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RUSH HOUR 2
+http://37.26.86.39:48768/movies/rushhour2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]RUSH HOUR 3
+http://37.26.86.39:48768/movies/rushhour3.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SACRIFICE
+http://37.26.86.39:48768/movies/sacrifice2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SAFE HOUSE
+http://37.26.86.39:48768/movies/safehouse.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SAME TIME NEXT CHRISTMAS
+http://37.26.86.39:48768/movies/sametimenextchristmas.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SAN ANDREAS
+http://37.26.86.39:48768/movies/sanandreas.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SAVAGE
+http://37.26.86.39:48768/movies/savage.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SCAR BOROUGH
+http://37.26.86.39:48768/movies/scarborough.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SCHUMACHER
+http://37.26.86.39:48768/movies/schumacher.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SCREAM
+http://37.26.86.39:48768/movies/scream.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SEAL TEAM
+http://37.26.86.39:48768/movies/sealteam.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SECRET SOCIETY
+http://37.26.86.39:48768/movies/secretsociety.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SECURITY 
+http://37.26.86.39:48768/movies/security2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SEE YOU NEXT CHRISTMAS
+http://37.26.86.39:48768/movies/seeyounextchristmas.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SENSATION
+http://37.26.86.39:48768/movies/sensation.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SENTINELLE
+http://37.26.86.39:48768/movies/sentinelle.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SERIOUS MEN
+http://37.26.86.39:48768/movies/seriousmen.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SETTLERS
+http://37.26.86.39:48768/movies/settlers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHANGAI AND THE LEGEND OF THE TEN RINGS
+http://37.26.86.39:48768/movies/shangchiandthelegendofthetenrings2021.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHERLCOK HOLMES A GAME OF SHADOWS
+http://37.26.86.39:48768/movies/sherlockholmesagameofshadows.mp4 	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHOOTING HEROIN
+http://37.26.86.39:48768/movies/shootingheroin2020.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHREK 1
+http://37.26.86.39:48768/movies/shrek1.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHREK 2
+http://37.26.86.39:48768/movies/shrek2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHREK 3
+http://37.26.86.39:48768/movies/shrek3.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHREK FOREVER AFTER
+http://37.26.86.39:48768/movies/shrekforeverafter.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SHUTTER ISLAND
+http://37.26.86.39:48768/movies/shutterisland.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SICARIO
+http://37.26.86.39:48768/movies/sicario.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SICARIO DAY OF THE SOLDADO
+http://37.26.86.39:48768/movies/sicariodayofthesoldado2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SILENT NIGHT
+http://37.26.86.39:48768/movies/silentnight.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SILK ROAD
+http://37.26.86.39:48768/movies/silkroad.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SING 2
+http://37.26.86.39:48768/movies/sing2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SLUM DOG MILLIONAIRE
+http://37.26.86.39:48768/movies/slumdogmillionaire.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SNAKE HEAD
+http://37.26.86.39:48768/movies/snakehead2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SNAKE YES
+http://37.26.86.39:48768/movies/snakeyes.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SNIPER
+http://37.26.86.39:48768/movies/sniper2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SNIPER ASSASSIN SEND
+http://37.26.86.39:48768/movies/sniperassassinsend.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SO LONG MY SON
+http://37.26.86.39:48768/movies/solongmyson2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SONG BIRD
+http://37.26.86.39:48768/movies/songbird.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SONS OF DENMARK
+http://37.26.86.39:48768/movies/sonsofdenmark.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPACE JAM
+http://37.26.86.39:48768/movies/spacejam.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPACE SWEEPERS
+http://37.26.86.39:48768/movies/spacesweepers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPECTRAL
+http://37.26.86.39:48768/movies/spectral.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPELL
+http://37.26.86.39:48768/movies/spell.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPENCER
+http://37.26.86.39:48768/movies/spencer.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPIDERMAN NO WAY HOME
+http://37.26.86.39:48768/movies/spidermannowayhome.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPIRAL
+http://37.26.86.39:48768/movies/spiral.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPIRIT UNTAMED
+http://37.26.86.39:48768/movies/spirituntamed.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SPY INTERVENTION
+http://37.26.86.39:48768/movies/spyintervention.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STARRED UP
+http://37.26.86.39:48768/movies/starredup.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STEP BROTHERS
+http://37.26.86.39:48768/movies/stepbrothers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STILL WATER
+http://37.26.86.39:48768/movies/stillwater.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STORM BOY
+http://37.26.86.39:48768/movies/stormboy2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STOROZH
+http://37.26.86.39:48768/movies/storozh.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STOW AWAY
+http://37.26.86.39:48768/movies/stowaway.mp4   
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STRAY DOLLS
+http://37.26.86.39:48768/movies/straydolls2020.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]STUCK A PART
+http://37.26.86.39:48768/movies/stuckapart.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SUICIDE SQUAD
+http://37.26.86.39:48768/movies/suicidesquad2016.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SUPER DEEP
+http://37.26.86.39:48768/movies/superdeep.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SUPER INTELLIGENCE
+http://37.26.86.39:48768/movies/superintelligence.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]SYNCHRONIC
+http://37.26.86.39:48768/movies/synchronic.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TAKEN 
+http://37.26.86.39:48768/movies/taken.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TAKEN 2
+http://37.26.86.39:48768/movies/taken2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TAKEN 3
+http://37.26.86.39:48768/movies/taken3.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TAKE THE MONEY AND RUN
+http://37.26.86.39:48768/movies/takethemoneyandrun.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TEACHER
+http://37.26.86.39:48768/movies/teacher2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TED K
+http://37.26.86.39:48768/movies/tedk.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TEENAGE VAMPIRE
+http://37.26.86.39:48768/movies/teenagevampire.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TENET FINAL
+http://37.26.86.39:48768/movies/tenetfinal.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TERMINATOR DARK FATE
+http://37.26.86.39:48768/movies/terminatordarkfate.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TERROR ON THE PRAIRIE
+http://37.26.86.39:48768/movies/terrorontheprairie.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TESLA
+http://37.26.86.39:48768/movies/tesla2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TEST
+http://37.26.86.39:48768/movies/test.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TEXT
+http://37.26.86.39:48768/movies/text.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ACCOUNTANT
+http://37.26.86.39:48768/movies/theaccountant.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ADAM PROJECT
+http://37.26.86.39:48768/movies/theadamproject.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ADAMS FAMILY 2
+http://37.26.86.39:48768/movies/theaddamsfamily2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ADJUSTMENT BUREAU
+http://37.26.86.39:48768/movies/theadjustmentbureau.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE AERONATUS
+http://37.26.86.39:48768/movies/theaeronatus0291.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE AGE OF ADLINE
+http://37.26.86.39:48768/movies/theageofadaline.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ASHLAD
+http://37.26.86.39:48768/movies/theashlad.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE A TEAM
+http://37.26.86.39:48768/movies/theateam.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BATMAN
+http://37.26.86.39:48768/movies/thebatman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BLACK PHONE
+http://37.26.86.39:48768/movies/theblackphone.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BOURNE LEGACY
+http://37.26.86.39:48768/movies/thebournelegacy2012.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BOY SIN THE BAND
+http://37.26.86.39:48768/movies/theboysintheband.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BOY WHO HARNESSED THE WIND
+http://37.26.86.39:48768/movies/theboywhoharnessedthewind2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BRAVE
+http://37.26.86.39:48768/movies/thebrave2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BUTTERFLYS DREAM
+http://37.26.86.39:48768/movies/thebutterflysdream.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE BY GONE
+http://37.26.86.39:48768/movies/thebygone2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE CARD COUNTER
+http://37.26.86.39:48768/movies/thecardcounter.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE CHRISTMAS TRAIN
+http://37.26.86.39:48768/movies/thechristmastrain.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE CIRCLE
+http://37.26.86.39:48768/movies/thecircle.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE CLEARING
+http://37.26.86.39:48768/movies/theclearing.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE CLOVERFIELD PARADOX
+http://37.26.86.39:48768/movies/thecloverfieldparadox.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE COLDEST GAME
+http://37.26.86.39:48768/movies/thecoldestgame2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE CONJRING 3
+http://37.26.86.39:48768/movies/theconjuring3.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE COUNSELLOR
+http://37.26.86.39:48768/movies/thecounsellor.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE COURIER
+http://37.26.86.39:48768/movies/thecourier.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DARK KNIGHT
+http://37.26.86.39:48768/movies/thedarkknight2008.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DARK KNIGHT RISES
+http://37.26.86.39:48768/movies/thedarkknightrises.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DARK TOWER
+http://37.26.86.39:48768/movies/thedarktower.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DECLINE
+http://37.26.86.39:48768/movies/thedecline2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DEEP HOUSE
+http://37.26.86.39:48768/movies/thedeephouse.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DEPARTED
+http://37.26.86.39:48768/movies/thedeparted.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DESPERATE HOUR
+http://37.26.86.39:48768/movies/thedesperatehour.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DEVIL ALL THE TIME
+http://37.26.86.39:48768/movies/thedevilallthetime.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DIG
+http://37.26.86.39:48768/movies/thedig2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DINNER
+http://37.26.86.39:48768/movies/thedinner.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DISCICPLE
+http://37.26.86.39:48768/movies/thediscicple.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DISSIDENT
+http://37.26.86.39:48768/movies/thedissident.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE DRY
+http://37.26.86.39:48768/movies/thedry.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE EASTERN FRONT
+http://37.26.86.39:48768/movies/theeasternfront.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE EQUALIZER
+http://37.26.86.39:48768/movies/theequalizer.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE EQUALIZER 2
+http://37.26.86.39:48768/movies/theequalizer2.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE EYES OF TAMMY FAYE
+http://37.26.86.39:48768/movies/theeyesoftammyfaye.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE FALLOUT
+http://37.26.86.39:48768/movies/thefallout.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE FAULT IN OUR STARS
+http://37.26.86.39:48768/movies/thefaultinourstars.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE FRENCH DISPATCH
+http://37.26.86.39:48768/movies/thefrenchdispatch.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GAME CHANGERS
+http://37.26.86.39:48768/movies/thegamechangers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GOD COMMITTEE
+http://37.26.86.39:48768/movies/thegodcommittee.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GOOD SHEP HERD
+http://37.26.86.39:48768/movies/thegoodshepherd.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GOOD THE BAD AND THE UGLY
+http://37.26.86.39:48768/movies/thegoodthebadandtheugly.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GRAND BUDAPEST HOTEL
+http://37.26.86.39:48768/movies/thegrandbudapesthotel.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GRAYMAN
+http://37.26.86.39:48768/movies/thegrayman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GREAT DEBATERS
+http://37.26.86.39:48768/movies/thegreatdebaters2007.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GREAT WALL
+http://37.26.86.39:48768/movies/thegreatwall.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GREAT WAR
+http://37.26.86.39:48768/movies/thegreatwar2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE GUILTY
+http://37.26.86.39:48768/movies/theguilty.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HATE FULEIGHT
+http://37.26.86.39:48768/movies/thehatefuleight.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HATING GAME
+http://37.26.86.39:48768/movies/thehatinggame.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HEIST OF THE CENTURY
+http://37.26.86.39:48768/movies/theheistofthecentury.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HERO
+http://37.26.86.39:48768/movies/thehero.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HOLIDAY
+http://37.26.86.39:48768/movies/theholiday.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HOST
+http://37.26.86.39:48768/movies/thehost2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HOUSE WITH A CLOCK IN ITS WALLS
+http://37.26.86.39:48768/movies/thehousewithaclockinitswalls.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HUMANS
+http://37.26.86.39:48768/movies/thehumans.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HUNGER GAMES
+http://37.26.86.39:48768/movies/thehungergames2012.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HUNT
+http://37.26.86.39:48768/movies/thehunt2012.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE HURT LOCKER
+http://37.26.86.39:48768/movies/thehurtlocker.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ICE AGE ADVENTURES OF BUCK WILD
+http://37.26.86.39:48768/movies/theiceageadventuresofbuckwild.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]800
+http://37.26.86.39:48768/movies/theighthundred.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE INSIDE
+http://37.26.86.39:48768/movies/theiinside.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE IMMIGRANT
+http://37.26.86.39:48768/movies/theimmigrant2013.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE IN BETWEEN 
+http://37.26.86.39:48768/movies/theinbetween.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE INNOCENTS
+http://37.26.86.39:48768/movies/theinnocents.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE INVISIBLE GUEST
+http://37.26.86.39:48768/movies/theinvisibleguest2016.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE INVISIBLE MAN
+http://37.26.86.39:48768/movies/theinvisibleman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ITALIAN JOB
+http://37.26.86.39:48768/movies/theitalianjob.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE JACKET
+http://37.26.86.39:48768/movies/thejacket.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE KID DETECTIVE
+http://37.26.86.39:48768/movies/thekiddetective.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE KILL TEAM
+http://37.26.86.39:48768/movies/thekillteam.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE KING OF STATE ISLAND
+http://37.26.86.39:48768/movies/thekingofstatenisland2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE KINGS DAUGHTER
+http://37.26.86.39:48768/movies/thekingsdaughter.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE KINGSMAN
+http://37.26.86.39:48768/movies/thekingsman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LAST DAY OF AMERICAN CRIME
+http://37.26.86.39:48768/movies/thelastdaysofamericancrime.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LAST DUEL
+http://37.26.86.39:48768/movies/thelastduel.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LAST TREE
+http://37.26.86.39:48768/movies/thelasttree2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LAST WARRIOR
+http://37.26.86.39:48768/movies/thelastwarrior.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LEGACY OF BONES
+http://37.26.86.39:48768/movies/thelegacyofthebones2019.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LEGENDS OF TOMORIS
+http://37.26.86.39:48768/movies/thelegendsoftomiris.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LITTLE THINGS
+http://37.26.86.39:48768/movies/thelittlethings.mp4	  	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LONGEST YARD
+http://37.26.86.39:48768/movies/thelongestyard.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE LOST DAUGHTER
+http://37.26.86.39:48768/movies/thelostdaughter.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MECHANIST
+http://37.26.86.39:48768/movies/themachinist.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MANDEL AFFECT
+http://37.26.86.39:48768/movies/themandelaffect2019.mp4	
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MAN FROM TORONTO
+http://37.26.86.39:48768/movies/themanfromtoronto.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MAN WITH IRON HEART
+http://37.26.86.39:48768/movies/themanwithironheart.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MAN WITHOUT GRAVITY
+http://37.26.86.39:48768/movies/themanwithoutgravity.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MARTIAN
+http://37.26.86.39:48768/movies/themartian.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MASTER
+http://37.26.86.39:48768/movies/themaster.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MATRIX
+http://37.26.86.39:48768/movies/thematrix.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MATRIX RESURRECTIONS
+http://37.26.86.39:48768/movies/thematrixresurrections.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MAURITANIAN
+http://37.26.86.39:48768/movies/themauritanian.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MIDNIGHT SKY
+http://37.26.86.39:48768/movies/themidnightsky.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE MULE
+http://37.26.86.39:48768/movies/themule.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE NORTHMAN
+http://37.26.86.39:48768/movies/thenorthman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE NOVICE
+http://37.26.86.39:48768/movies/thenovice.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE NUT CRACKER AND THE 4 REALMS
+http://37.26.86.39:48768/movies/thenutcrackerandthefourrealms2018.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE OCCUPANT
+http://37.26.86.39:48768/movies/theoccupant2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE OLD GUARD
+http://37.26.86.39:48768/movies/theoldguard2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE OSIRIS CHILD
+http://37.26.86.39:48768/movies/theosirischild2016.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE OUTFIT
+http://37.26.86.39:48768/movies/theoutfit.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PARAMEDIC
+http://37.26.86.39:48768/movies/theparamedic.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PIANIST
+http://37.26.86.39:48768/movies/thepianist.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PILOT A BATTLE FOR SURVIVAL
+http://37.26.86.39:48768/movies/thepilotabattleforsurvival.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PLATFORM 2
+http://37.26.86.39:48768/movies/theplatform2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE POWER OF THE DOG
+http://37.26.86.39:48768/movies/thepowerofthedog.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PRESTIGE
+http://37.26.86.39:48768/movies/theprestige.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PRINCESS
+http://37.26.86.39:48768/movies/theprincess.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PRINCESS SWITCH
+http://37.26.86.39:48768/movies/theprincessswitch2018.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PRINCESS SWITCH AGAIN 2
+http://37.26.86.39:48768/movies/theprincesswitchedagain2.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PROPOSAL
+http://37.26.86.39:48768/movies/theproposal.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PROTEGE
+http://37.26.86.39:48768/movies/theprotege.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PURITY OF VENGEANCE
+http://37.26.86.39:48768/movies/thepurityofvengeance2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE PURITY OF HAPPYNESS
+http://37.26.86.39:48768/movies/thepursuitofhappyness.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THERE
+http://37.26.86.39:48768/movies/there.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE REPORT
+http://37.26.86.39:48768/movies/thereport.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE REVENANT
+http://37.26.86.39:48768/movies/therevenant.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THERE WILL BE BLOOD
+http://37.26.86.39:48768/movies/therewillbeblood.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE RYTHM SECTION
+http://37.26.86.39:48768/movies/therhythmsection2020.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE REIFLE MAN
+http://37.26.86.39:48768/movies/therifleman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ROADS NOT TAKEN
+http://37.26.86.39:48768/movies/theroadsnottaken.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE ROOM
+http://37.26.86.39:48768/movies/theroom2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE RUNNERS
+http://37.26.86.39:48768/movies/therunners2020.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SHAW SHANK REDEMPTION
+http://37.26.86.39:48768/movies/theshawshankredemption.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SILENCE OF THE MARSH
+http://37.26.86.39:48768/movies/thesilenceofthemarsh2019.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SILENCING
+http://37.26.86.39:48768/movies/thesilencing2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SOCIAL DILEMMA
+http://37.26.86.39:48768/movies/thesocialdilemma.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SONG NAMES
+http://37.26.86.39:48768/movies/thesongnames2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SOUVENIR
+http://37.26.86.39:48768/movies/thesouvenir.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SOUVENIR 2
+http://37.26.86.39:48768/movies/thesouvenir2.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE STRONG HOLD
+http://37.26.86.39:48768/movies/thestronghold2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SURVIVOR
+http://37.26.86.39:48768/movies/thesurvivor.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TAX COLLECTOR
+http://37.26.86.39:48768/movies/thetaxcollector2020.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TENDER BAR
+http://37.26.86.39:48768/movies/thetenderbar.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE THEORY OF EVEYTHING
+http://37.26.86.39:48768/movies/thetheoryofeverything.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TINDER WINDLER
+http://37.26.86.39:48768/movies/thetinderswindler.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TOWN
+http://37.26.86.39:48768/movies/thetown.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TRAGEDY OF MACBETH
+http://37.26.86.39:48768/movies/thetragedyofmacbeth.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TRAITOR
+http://37.26.86.39:48768/movies/thetraitor2019.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TRIAL OF THE CHICAGO 7
+http://37.26.86.39:48768/movies/thetrialofthechicago7.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TRUMAN SHOW
+http://37.26.86.39:48768/movies/thetrumanshow.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE TUNNEL
+http://37.26.86.39:48768/movies/thetunnel.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE UGLY TRUTH
+http://37.26.86.39:48768/movies/theuglytruth.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE UNFORGIVABLE
+http://37.26.86.39:48768/movies/theunforgivable.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE UNHEALER
+http://37.26.86.39:48768/movies/theunhealer.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE UNTHINKABLE
+http://37.26.86.39:48768/movies/theunthinkable2018.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE UNTOUCHABLES
+http://37.26.86.39:48768/movies/theuntouchables.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE USUAL SUSPECTS
+http://37.26.86.39:48768/movies/theusualsuspects.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THA WAR WITH THE GRANDPA
+http://37.26.86.39:48768/movies/thewarwithgrandpa2020.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WAVE
+http://37.26.86.39:48768/movies/thewave.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WAY BACK
+http://37.26.86.39:48768/movies/thewayback2020.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WEDDING PLANNER
+http://37.26.86.39:48768/movies/theweddingunplanner2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WHISTLE BLOWER
+http://37.26.86.39:48768/movies/thewhistleblower.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WHITE TIGER
+http://37.26.86.39:48768/movies/thewhitetiger.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WOLF OF WALL STREET
+http://37.26.86.39:48768/movies/thewolfofwallstreet.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE WORLD WE MAKE
+http://37.26.86.39:48768/movies/theworldwemake.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THE SHOOT HORSES DONT THEY
+http://37.26.86.39:48768/movies/theyshoothorsesdonthey.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]13 LIES
+http://37.26.86.39:48768/movies/thirteenlives.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]THOSE WHO WISH ME DEAD
+http://37.26.86.39:48768/movies/thosewhowishmedead.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TIGER
+http://37.26.86.39:48768/movies/tiger2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TILL DEATH
+http://37.26.86.39:48768/movies/tilldeath.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TIME IS UP
+http://37.26.86.39:48768/movies/timeisup.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TO ALL THE BOYS IS STILL LOVE YUO
+http://37.26.86.39:48768/movies/toalltheboysistillloveyou.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TOMB RAIDER
+http://37.26.86.39:48768/movies/tombraider.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TOSCANA
+http://37.26.86.39:48768/movies/toscana.mp4   
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRAINING DAY
+http://37.26.86.39:48768/movies/trainingday.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRAIN TO BUSAN
+http://37.26.86.39:48768/movies/traintobusan.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRAIN TO BUSAN 2
+http://37.26.86.39:48768/movies/traintobusan2.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRANSFERENCE
+http://37.26.86.39:48768/movies/transference2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRASH
+http://37.26.86.39:48768/movies/trash.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRIPPLE TAP
+http://37.26.86.39:48768/movies/trippletap.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TROLL HUNTERS
+http://37.26.86.39:48768/movies/trollhunters2021.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TROY
+http://37.26.86.39:48768/movies/troy2014.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TRUST
+http://37.26.86.39:48768/movies/trust2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TURNING RED
+http://37.26.86.39:48768/movies/turningred.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TWILIGHT
+http://37.26.86.39:48768/movies/twilight.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TWILIGHT SAGA ECLIPSE
+http://37.26.86.39:48768/movies/twilightsagaeclipse.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TWIN MURDERS THE SILENCE OF THE WHITE CITY
+http://37.26.86.39:48768/movies/twinmurdersthesilenceofthewhitecity2019.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]TWIST
+http://37.26.86.39:48768/movies/twist.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]
+http://37.26.86.39:48768/movies/uncharted.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]
+http://37.26.86.39:48768/movies/uncorked2020.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]
+http://37.26.86.39:48768/movies/underthesilverlake.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]
+http://37.26.86.39:48768/movies/underwater.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]UNDINE
+http://37.26.86.39:48768/movies/undine.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]UNSTOPPABLE
+http://37.26.86.39:48768/movies/unstoppable.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]USUAL SUSPECTS
+http://37.26.86.39:48768/movies/usualsuspects.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]VANGUARD
+http://37.26.86.39:48768/movies/vanguard2020.mp4 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]VANQUISH
+http://37.26.86.39:48768/movies/vanquish.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]VENOM 2
+http://37.26.86.39:48768/movies/venom2.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]VIRUS
+http://37.26.86.39:48768/movies/virus.mp4	   
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]VOYAGERS
+http://37.26.86.39:48768/movies/voyagers.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WANDER
+http://37.26.86.39:48768/movies/wander.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WAR CRAFT
+http://37.26.86.39:48768/movies/warcraft.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WAR DOGS
+http://37.26.86.39:48768/movies/wardogs.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WARNING
+http://37.26.86.39:48768/movies/warning.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WATCHMEN
+http://37.26.86.39:48768/movies/watchmen.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WATERMAN
+http://37.26.86.39:48768/movies/waterman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WAY DOWN
+http://37.26.86.39:48768/movies/waydown.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WEST SIDE STORY
+http://37.26.86.39:48768/movies/westsidestory.mp4	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WHAT DEATH LEAVES BEHIND
+http://37.26.86.39:48768/movies/whatdeathleavesbehind2018.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WHITE ELEPHANT
+http://37.26.86.39:48768/movies/whiteelephant.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WICKED
+http://37.26.86.39:48768/movies/wicked.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WILD CAT
+http://37.26.86.39:48768/movies/wildcat.mp4	  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WILD TALES
+http://37.26.86.39:48768/movies/wildtales.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WILLYS WONDERLAND
+http://37.26.86.39:48768/movies/willyswonderland.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WIND FALL
+http://37.26.86.39:48768/movies/windfall.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WISH DRAGON
+http://37.26.86.39:48768/movies/wishdragon.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WOLD
+http://37.26.86.39:48768/movies/wolf.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WONDER WOMAN
+http://37.26.86.39:48768/movies/wonderwoman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WORLD WAR Z
+http://37.26.86.39:48768/movies/worldwarz.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WORTH
+http://37.26.86.39:48768/movies/worth2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WRATH OF MAN
+http://37.26.86.39:48768/movies/wrathofman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]WRONG TURN
+http://37.26.86.39:48768/movies/wrongturn2021.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]XMEN APOCALYPSE
+http://37.26.86.39:48768/movies/xmenapocalypse.mp4 
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]YES MAN
+http://37.26.86.39:48768/movies/yesman.mp4
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]YOU SHOULD HAVE LEFT
+http://37.26.86.39:48768/movies/youshouldhaveleft.mp4  
+#EXTINF:-1 group-title="[🇦🇱🎬]FILMA(MyVOD)" tvg-logo="https://i.imgur.com/XkoI5pP.png",[$]ZERO DARK THIRTY
+http://37.26.86.39:48768/movies/zerodarkthirty.mp4
+
 #EXTINF:-1 group-title="[🇦🇱👫🎬]FILMA KIDS(DUBLIM SHQIP)" tvg-logo="https://bit.ly/kidstvflag",[$]FEMIJET SPIUNE 1
 http://130.0.27.131:88/movies/html/Dublua/FilmaDubluar4.09.2019/Femijet-Spiune-1.mp4
 #EXTINF:-1 group-title="[🇦🇱👫🎬]FILMA KIDS(DUBLIM SHQIP)" tvg-logo="https://bit.ly/kidstvflag",[$]FEMIJET SPIUNE 2
@@ -1555,5 +3206,4 @@ http://orchidetv.com:8081/s3/Brave2012.mp4
 http://orchidetv.com:8081/s3/ToyStory1995.mp4
 #EXTINF:-1 group-title="[🇦🇱👫🎬]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/2rwLR0P.png",[$]TOY STORY 2
 http://orchidetv.com:8081/s3/ToyStory21999.mp4
-
 
